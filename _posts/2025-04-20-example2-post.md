@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empowering Biomedical Research with Galaxy: A Cloud-Based Platform
+title: Empowering Biomedical Research with Galaxy. A Cloud-Based Platform
 subtitle: There's lots to learn!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
