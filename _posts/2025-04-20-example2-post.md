@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Joan Arxer
 ---
 
 {: .box-success}
@@ -23,22 +23,21 @@ According to a 2022 update published in Nucleic Acids Research, Galaxy has matur
 
 **Key Features**
 
-- User-Friendly Interface: Galaxy's intuitive web interface allows users to build and execute complex workflows through simple drag-and-drop actions.
-- Reproducibility: Every analysis performed in Galaxy is automatically recorded, ensuring that experiments can be replicated and verified by others.
-- Collaboration: Researchers can share their workflows and datasets easily, promoting collaborative efforts across institutions and disciplines.
-- Scalability: Galaxy can handle large-scale data analyses by leveraging cloud computing resources, making it suitable for projects of varying sizes.
-- Extensive Tool Integration: The platform supports thousands of bioinformatics tools, allowing users to perform a wide range of analyses, from sequence alignment to variant calling.
+- **User-Friendly Interface**: Galaxy's intuitive web interface allows users to build and execute complex workflows through simple drag-and-drop actions.
+- **Reproducibility**: Every analysis performed in Galaxy is automatically recorded, ensuring that experiments can be replicated and verified by others.
+- **Collaboration**: Researchers can share their workflows and datasets easily, promoting collaborative efforts across institutions and disciplines.
+- **Scalability**: Galaxy can handle large-scale data analyses by leveraging cloud computing resources, making it suitable for projects of varying sizes.
+- **Extensive Tool Integration**: The platform supports thousands of bioinformatics tools, allowing users to perform a wide range of analyses, from sequence alignment to variant calling.
 
 ![Workflow]("/images/Workflow.png")
 
 **Applications in Biomedicine**
 
 Galaxy has been instrumental in various biomedical research areas:
-
-- Genomics: Facilitating genome assembly, annotation, and comparative genomics studies.
-- Transcriptomics: Analyzing RNA-Seq data to study gene expression patterns.
-- Proteomics and Metabolomics: Processing mass spectrometry data for protein and metabolite identification.
-- Clinical Diagnostics: Enhancing genetic testing and personalized medicine approaches by streamlining data analysis workflows.
+- **Genomics**: Facilitating genome assembly, annotation, and comparative genomics studies.
+- **Transcriptomics**: Analyzing RNA-Seq data to study gene expression patterns.
+- **Proteomics and Metabolomics**: Processing mass spectrometry data for protein and metabolite identification.
+- **Clinical Diagnostics**: Enhancing genetic testing and personalized medicine approaches by streamlining data analysis workflows.
 
 **Training and Community Support**
 
