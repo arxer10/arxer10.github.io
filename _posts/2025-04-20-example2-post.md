@@ -48,7 +48,7 @@ Galaxy boasts a vibrant global community that contributes to its continuous deve
 
 Galaxy stands out as a powerful, cloud-based platform that democratizes access to complex bioinformatics analyses. Its user-friendly design, coupled with robust features, makes it an invaluable tool for researchers aiming to unlock insights from biomedical data.
 
-For more information and to start using Galaxy, visit (https://usegalaxy.org.com/).
+For more information and to start using Galaxy, visit https://usegalaxy.org.com/.
 
 **References:**
 
