@@ -8,11 +8,8 @@ tags: [test]
 comments: true
 mathjax: true
 author: Joan Arxer
+show-author: true
 ---
-
-<div style="margin-top: -10px; margin-bottom: 30px; font-style: italic; color: #888;">
-  By Joan Arxer
-</div>
 
 {: .box-success}
 Discover how the Galaxy platform is transforming biomedical research by making complex data analysis accessible to everyone. Learn how cloud computing is empowering collaboration, reproducibility, and innovation in the life sciences.
