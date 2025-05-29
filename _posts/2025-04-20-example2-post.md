@@ -1,3 +1,5 @@
+
+
 ---
 layout: post
 title: Empowering Biomedical Research with Galaxy. A Cloud-Based Platform
@@ -29,7 +31,7 @@ According to a 2022 update published in Nucleic Acids Research, Galaxy has matur
 - **Scalability**: Galaxy can handle large-scale data analyses by leveraging cloud computing resources, making it suitable for projects of varying sizes.
 - **Extensive Tool Integration**: The platform supports thousands of bioinformatics tools, allowing users to perform a wide range of analyses, from sequence alignment to variant calling.
 
-![Workflow](/assets/img/Workflow.png)
+![Workflow](/assets/img/workflow.png)
 
 
 **Applications in Biomedicine**
