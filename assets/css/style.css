@@ -45,6 +45,20 @@ a:hover {
   flex-direction: column;
 }
 
+/* Caixa central del contingut — clarejada */
+.container, .main-content, #main {
+  background-color: rgba(255, 255, 255, 0.05); /* Translúcid suau */
+  padding: 2rem;
+  border-radius: 12px;
+  backdrop-filter: blur(2px);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Millora el contrast del text dels paràgrafs i encapçalaments */
+p, h1, h2, h3, h4 {
+  color: #F0F0F0 !important;
+}
+
 /* Footer */
 footer {
   margin-top: auto;
