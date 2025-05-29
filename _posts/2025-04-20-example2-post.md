@@ -68,9 +68,10 @@ Galaxy is much more than a computational platform—it's a scientific ecosystem.
 
 To explore Galaxy and begin analyzing biomedical data in the cloud, visit [usegalaxy.org](https://usegalaxy.org).
 
-
+---
 
 ### References
+
 
 - Afgan, E., et al. (2022). The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2022 update. Nucleic Acids Research, 50(W1), W345–W351. [Nucleic Acids Research](https://doi.org/10.1093/nar/gkac247)
 
