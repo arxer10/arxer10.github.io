@@ -4,7 +4,6 @@ title: Empowering Biomedical Research with Galaxy. A Cloud-Based Platform
 subtitle: Cloud tools for biomedical research
 author: Joan Arxer
 date: 2025-04-20
-tags: [bioinformatics, galaxy, data analysis, cloud]
 comments: true
 ---
 
