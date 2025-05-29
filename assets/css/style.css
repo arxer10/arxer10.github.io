@@ -93,11 +93,12 @@ footer a:hover {
 }
 
 /* -------- REQUADRE .box-success PERSONALITZAT -------- */
-div.box-success {
-  background-color: #223344 !important;  /* Fons blau grisenc fosc */
-  border-left: 6px solid #4DB8FF !important;  /* Franja esquerra */
-  padding: 1rem 1.5rem;
+body div.box-success {
+  background-color: #223344 !important;
+  border-left: 6px solid #4DB8FF !important;
+  padding: 1rem 1.5rem !important;
   color: #E0E6ED !important;
-  border-radius: 8px;
-  margin: 2rem 0;
+  border-radius: 8px !important;
+  margin: 2rem 0 !important;
 }
+
