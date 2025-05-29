@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: A brief personal description
 ---
-
+<link rel="stylesheet" href="/assets/css/style.css">
 My name is Joan Arxer, I am 23 years old and currently living in Girona, Catalunya. I have an academic background in Biomedical Engineering and I am currently pursuing a Master’s degree in Health Data Science. I have a strong interest in science, technology, and improving healthcare systems through data-driven innovation.
 
 I enjoy working with data, especially exploring both supervised and unsupervised machine learning techniques to address real-world challenges. I am an analytical and curious person, eager to keep learning and to apply my knowledge in impactful healthcare projects.
