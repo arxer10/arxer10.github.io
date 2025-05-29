@@ -4,7 +4,6 @@ title: Empowering Biomedical Research with Galaxy. A Cloud-Based Platform
 subtitle: Cloud tools for biomedical research
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 mathjax: true
 author: Joan Arxer
@@ -12,6 +11,7 @@ show-author: true
 ---
 
 {: .box-success}
+*By Joan Arxer*
 Discover how the Galaxy platform is transforming biomedical research by making complex data analysis accessible to everyone. Learn how cloud computing is empowering collaboration, reproducibility, and innovation in the life sciences.
 
 In the era of big data, biomedical research generates vast amounts of complex data, from genomic sequences to high-resolution medical images. Managing and analyzing this data requires robust, scalable, and user-friendly platforms. One such platform making significant strides in this domain is Galaxy.
