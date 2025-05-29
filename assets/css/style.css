@@ -94,11 +94,13 @@ footer a:hover {
 
 /* -------- REQUADRE .box-success PERSONALITZAT -------- */
 body div.box-success {
-  background-color: #223344 !important;
-  border-left: 6px solid #4DB8FF !important;
+  background-color: #162635 !important; /* Fons: blau-gris suau, coherent amb la paleta */
+  border-left: 4px solid #4DB8FF !important; /* Franja científica blava */
   padding: 1rem 1.5rem !important;
-  color: #E0E6ED !important;
-  border-radius: 8px !important;
+  color: #E0E6ED !important; /* Text clar */
+  border-radius: 10px !important;
   margin: 2rem 0 !important;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
+
 
