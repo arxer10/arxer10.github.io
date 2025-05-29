@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: Empowering Biomedical Research with Galaxy. A Cloud-Based Platform
@@ -61,3 +59,8 @@ For more information and to start using Galaxy, visit [usegalaxy.org](https://us
 - Galaxy Project. (n.d.). Retrieved from [About Galaxy](https://galaxyproject.org/support/about-galaxy/)
 
 - Galaxy Project. (n.d.). Galaxy Community Hub. Retrieved from [Meet Galaxy - a data analysis universe](https://galaxyproject.org/)
+
+
+
+  
+![galaxy](/assets/img/galaxy.png)
