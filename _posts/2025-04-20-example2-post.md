@@ -8,6 +8,8 @@ tags: [bioinformatics, galaxy, data analysis, cloud]
 comments: true
 ---
 
+{: .box-success} Discover how the Galaxy platform is transforming biomedical research by making complex data analysis accessible to everyone. Learn how cloud computing is empowering collaboration, reproducibility, and innovation in the life sciences. In the era of big data, biomedical research generates vast amounts of complex data, from genomic sequences to high-resolution medical images. Managing and analyzing this data requires robust, scalable, and user-friendly platforms. One such platform making significant strides in this domain is Galaxy.
+
 ### Introduction
 
 In the era of big data, biomedical research is generating enormous volumes of information, ranging from genomic and transcriptomic sequences to high-resolution clinical imaging and multi-omics datasets. This explosion of complex data opens unprecedented opportunities for scientific discovery, but also brings significant technical challenges in terms of analysis, reproducibility, accessibility, and collaboration. Addressing these challenges requires digital infrastructures that combine power, transparency, and usability—qualities that define **Galaxy**, an open-source platform designed to make biomedical data analysis more accessible and reproducible.
