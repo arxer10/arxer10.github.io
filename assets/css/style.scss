@@ -3,11 +3,22 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #0E1A2B !important;
-  color: #E0E6ED !important;
+  background-color: #0E1A2B !important; /* Blau fosc científic */
+  color: #E0E6ED !important;           /* Gris clar/blanc */
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: flex;
   flex-direction: column;
+}
+
+/* Enllaços */
+a {
+  color: #4DB8FF !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #82D4FF !important;
+  text-decoration: underline;
 }
 
 /* Navbar */
@@ -32,17 +43,6 @@ html, body {
   flex: 1;
   display: flex;
   flex-direction: column;
-}
-
-/* Enllaços */
-a {
-  color: #4DB8FF !important;
-  text-decoration: none;
-}
-
-a:hover {
-  color: #82D4FF !important;
-  text-decoration: underline;
 }
 
 /* Footer */
