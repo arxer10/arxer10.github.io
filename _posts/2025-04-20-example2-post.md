@@ -7,7 +7,6 @@ date: 2025-04-20
 comments: true
 ---
 
-{: .box-success} 
 Discover how the Galaxy platform is transforming biomedical research by making complex data analysis accessible to everyone. Learn how cloud computing is empowering collaboration, reproducibility, and innovation in the life sciences. In the era of big data, biomedical research generates vast amounts of complex data, from genomic sequences to high-resolution medical images. Managing and analyzing this data requires robust, scalable, and user-friendly platforms. One such platform making significant strides in this domain is Galaxy.
 
 <link rel="stylesheet" href="/assets/css/style.css">
