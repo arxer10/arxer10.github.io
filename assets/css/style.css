@@ -92,13 +92,12 @@ footer a:hover {
   color: #F0F0F0 !important;
 }
 
-/* Personalització del requadre box-success */
-.box-success {
-  background-color: #223344 !important;  /* Nou fons: blau grisenc fosc */
-  border-left: 6px solid #4DB8FF !important;  /* Franja esquerra estilitzada */
+/* -------- REQUADRE .box-success PERSONALITZAT -------- */
+div.box-success {
+  background-color: #223344 !important;  /* Fons blau grisenc fosc */
+  border-left: 6px solid #4DB8FF !important;  /* Franja esquerra */
   padding: 1rem 1.5rem;
-  color: #E0E6ED !important;  /* Text clar */
+  color: #E0E6ED !important;
   border-radius: 8px;
   margin: 2rem 0;
 }
-
