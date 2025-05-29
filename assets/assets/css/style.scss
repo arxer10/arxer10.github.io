@@ -1,26 +1,62 @@
+/* Cos de la pàgina */
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4 !important; /* <-- color de pàgina personalitzat */
-  color: #222 !important;
+  background-color: #0E1A2B !important;
+  color: #E0E6ED !important;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: flex;
   flex-direction: column;
 }
 
+/* Navbar */
+.navbar {
+  background-color: #102542 !important;
+  border-bottom: 1px solid #1A2F4A !important;
+}
+
+.navbar a,
+.navbar-brand {
+  color: #FFFFFF !important;
+}
+
+.navbar a:hover {
+  color: #4DB8FF !important;
+}
+
 /* Contingut principal */
+.wrapper,
 .main-content,
-#main,
-.wrapper {
+#main {
   flex: 1;
   display: flex;
   flex-direction: column;
 }
 
+/* Enllaços */
+a {
+  color: #4DB8FF !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #82D4FF !important;
+  text-decoration: underline;
+}
+
 /* Footer */
 footer {
   margin-top: auto;
-  background-color: #eaeaea !important;
-  color: #555 !important;
+  background-color: #102542 !important;
+  color: #B0C4D9 !important;
   padding: 2rem 0;
+}
+
+footer a {
+  color: #E0E6ED !important;
+}
+
+footer a:hover {
+  color: #4DB8FF !important;
 }
